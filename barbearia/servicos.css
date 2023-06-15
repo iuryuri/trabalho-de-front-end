@@ -1,0 +1,29 @@
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+nav a {
+    text-transform: uppercase;
+    color: rgb(12, 81, 145);
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration:solid
+}
+
+nav {
+    
+  position: absolute;
+  top: 89px;
+  right: 0px;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.imagem{
+    width: 30%;
+}
+  

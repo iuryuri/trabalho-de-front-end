@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+   color: rgb(57, 87, 116);
+   font-size: 45px;
+   font-style: italic;
+   background-color: rgb(125, 142, 190);
+}
+
+b {
+color: rgb(38, 60, 160);
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 20;
+}
+
+.imagem {
+ display: block;
+margin-left: auto;
+margin-right: auto;
+width: 1000px;
+border-style: groove;
+border-radius: 40px;
+border-width: 40px;
+border-color: rgb(90, 47, 110);
+}
+
+.contato {
+background-color: rgb(64, 142, 173);
+width: 11%;
+border-radius: 30px;
+margin: auto;
+text-align: center;
+vertical-align: top;
+display: inline-block
+}
+.texto {
+     background-color: rgb(106, 151, 168);
+     width: 60%;
+     border-radius: 30px;
+     margin: auto;
+     text-align: center;
+}
