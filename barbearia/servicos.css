@@ -4,7 +4,7 @@ nav li {
 }
 nav a {
     text-transform: uppercase;
-    color: rgb(12, 81, 145);
+    color: rgb(207, 105, 86);
     font-weight: bold;
     font-size: 30px;
     text-decoration:solid
@@ -24,6 +24,17 @@ nav {
 }
 
 .imagem{
-    width: 30%;
+    width: 35%;
+    margin-inline-start: -51%;
 }
+
+header{
+     
+    b
+    width: 100%;
+    
+    
+}
+
+
   
