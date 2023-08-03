@@ -1,0 +1,141 @@
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+nav a:hover{
+    color: rgb(29, 94, 138);
+    
+
+    
+}
+nav a {
+    text-transform: uppercase;
+    color: rgb(207, 105, 86);
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration:solid
+}
+
+nav {
+    
+  position: absolute;
+  top: 89px;
+  right: 0px;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.imagem{
+    width: 35%;
+    margin-inline-start: -51%;
+  
+}
+
+header{
+     
+    background-color: rgb(119, 63, 63);
+    width: 100%;
+    background-image: linear-gradient(to left, rgb(204, 117, 95), rgb(204, 119, 204))
+    
+}
+.servicos{
+ width: 940px;
+ margin: 0 auto;
+ padding: 50px;
+}
+
+.servicos li{
+    display: inline-block;
+    text-align: center;
+    margin: 1.5%  1.5%;
+    padding: 30px 20px;
+    box-sizing: borde-box;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    }
+.servicos li:hover{
+
+    border-color: rgb(115, 74, 153);
+
+}
+.servicos li:hover h2{
+    font-size: 34px;
+    color: rgb(119, 111, 189);
+}
+.servicos li:active{
+    border-color: blueviolet;
+    border-width: 4px;
+}
+
+
+
+.servicos img {
+    width: 200px;
+    height: 200px;
+}
+  
+.corpo{
+
+   background-color: burlywood;
+   background-image: linear-gradient(45deg, rgb(120, 58, 179), rgb(185, 22, 117), rgb(112, 13, 55) ,rgb(78, 26, 39) )
+}
+ 
+.servicos h2{
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+.descricao{
+    font-size: 18px;
+}
+.preco{
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+footer { 
+    text-align: center;
+    background:url("footer.png");
+    padding: 20px;
+
+}
+
+footer img{
+    width: 6%;
+    
+}
+.Copyright{
+    font-size: 13px;
+    margin: 20px 0 0;
+}
+
+main {
+     width: 940px;
+     margin: 0 auto;
+
+}
+ form {
+    margin: 40px 0;
+
+ }
+
+ form label, form p {
+    display: block;
+    font-size:20px;
+    margin: 0 0 10px;
+}
+
+form input-padrao{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+.checkbox{
+    margin: 20 px 0;
+}

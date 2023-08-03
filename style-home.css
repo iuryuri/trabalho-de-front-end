@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+   color: rgb(185, 11, 98);
+   font-size: 45px;
+   font-style: italic;
+   background-color: rgb(114, 19, 138);
+   background-image: linear-gradient(45deg, rgb(60, 31, 87), rgb(112, 27, 77), rgb(75, 25, 46) ,rgb(65, 24, 34) )
+}
+
+b {
+color: rgb(0, 0, 0);
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 20;
+     background-image: linear-gradient(45deg, rgb(37, 9, 65), rgb(87, 14, 56), rgrgb(61, 7, 30)rgb(53, 19, 28) )
+}
+
+.imagem {
+ display: block;
+margin-left: auto;
+margin-right: auto;
+width: 1000px;
+border-style: groove;
+border-radius: 40px;
+border-width: 40px;
+border-color: darkorchid;
+
+
+}
+
+.contato {
+background-color: rgb(179, 105, 228);
+width: 11%;
+border-radius: 30px;
+margin: auto;
+text-align: center;
+vertical-align: top;
+display: inline-block
+
+}
+.texto {
+     background-color: rgb(165, 68, 92);
+     width: 60%;
+     border-radius: 30px;
+     margin: auto;
+     text-align: center;
+     background-image: linear-gradient(45deg, rgb(120, 58, 179), rgb(185, 22, 117), rgb(112, 13, 55) ,rgb(78, 26, 39) )
+}
+.corpinho {
+    
+
+     background-color: rgb(228, 139, 105);
+     background-image: linear-gradient(45deg, rgb(120, 58, 179), rgb(185, 22, 117), rgb(112, 13, 55) ,rgb(78, 26, 39) )
+}
